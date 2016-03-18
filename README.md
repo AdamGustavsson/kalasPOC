@@ -1,3 +1,5 @@
+This is a proof of concept on using React, Relay Graphql and Dynamodb for a party invitation app.
+
 # Relay Starter Kit
 
 This kit includes an app server, a GraphQL server, and a transpiler that you can use to get started building an app with Relay. For a walkthrough, see the [Relay tutorial](https://facebook.github.io/relay/docs/tutorial.html).
@@ -32,3 +34,5 @@ npm start
 ## License
 
 Relay Starter Kit is [BSD licensed](./LICENSE). We also provide an additional [patent grant](./PATENTS).
+
+
